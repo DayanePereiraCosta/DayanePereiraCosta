@@ -45,13 +45,13 @@ Atualmente, estou aprofundando meus conhecimentos em soluções de atendimento n
 
 ### ☁️ Cloud Computing & AWS
 
-- [AWS Lambda Web Lab](https://github.com/DayanePereiraCosta/aws-lambda-web-lab) — Laboratório prático envolvendo AWS Lambda e desenvolvimento de soluções em nuvem.
-- [URA Financeira Demo](https://github.com/DayanePereiraCosta/ura-financeira-demo) — Projeto de demonstração de uma solução de URA (Unidade de Resposta Audível).
+- [AWS Lambda Web Lab](https://github.com/DayanePereiraCosta/aws-lambda-web-lab) — Projeto Pessoal - Laboratório prático envolvendo AWS Lambda e desenvolvimento de soluções em nuvem.
+- [URA Financeira Demo](https://github.com/DayanePereiraCosta/ura-financeira-demo) — Projeto Pessoal - Demonstração de uma solução de URA (Unidade de Resposta Audível).
 
 ### 💻 Desenvolvimento e tecnologia
 
-- [Lili Lê](https://github.com/DayanePereiraCosta/Lili-Le) — Projeto de tecnologia e educação voltado ao universo da leitura infantil.
-- [Plataforma ONG](https://github.com/DayanePereiraCosta/plataforma-ong) — Projeto de desenvolvimento de uma plataforma com foco social.
+- [Lili Lê](https://github.com/DayanePereiraCosta/Lili-Le) — Projeto pessoal - Aplicativo mobile educacional voltado ao incentivo à leitura infantil. Propõe uma experiência lúdica e interativa, na qual crianças são convidadas a explorar um universo mágico, descobrir histórias e desenvolver o interesse pela leitura por meio da tecnologia.
+- [Plataforma ONG](https://github.com/DayanePereiraCosta/plataforma-ong) — Projeto de ADS - Aplicação web voltada a serviços sociais e iniciativas comunitárias, com funcionalidades interativas para facilitar o acesso a informações e recursos de apoio.
 
 *Este portfólio está em constante evolução. Novos projetos e aprendizados serão adicionados por aqui!*
 
@@ -70,14 +70,6 @@ Atualmente, meus estudos estão concentrados em:
 Também tenho explorado como diferentes tecnologias podem trabalhar juntas para criar soluções eficientes e melhorar experiências de atendimento.
 
 ---
-
- 💙 Um pouco sobre mim
-
-Sou uma pessoa curiosa, criativa e apaixonada por aprender.
-
-Minha trajetória profissional está em transformação, e trago comigo experiências que me ensinaram muito sobre criatividade, empreendedorismo, organização e resolução de problemas.
-
-Acredito que tecnologia não é apenas sobre escrever código: é sobre entender necessidades, conectar ideias e construir soluções que façam a diferença.
 
 **Meus valores:**
 
