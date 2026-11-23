@@ -1,9 +1,4 @@
-
-
-
-
 # 👋 Olá! Eu sou a Dayane!
-
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** | Profissional da área de tecnologia em desenvolvimento
 
@@ -24,6 +19,8 @@ Atualmente, estou aprofundando meus conhecimentos em soluções de atendimento n
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
 ![Amazon Connect](https://img.shields.io/badge/Amazon_Connect-232F3E?logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white)
+![Amazon Lex](https://img.shields.io/badge/Amazon_Lex-232F3E?logo=amazonaws&logoColor=white)
+![Amazon SES](https://img.shields.io/badge/Amazon_SES-232F3E?logo=amazonaws&logoColor=white)
 
 **Programação & Desenvolvimento**
 
@@ -32,6 +29,7 @@ Atualmente, estou aprofundando meus conhecimentos em soluções de atendimento n
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
 **Ferramentas**
 
@@ -45,8 +43,9 @@ Atualmente, estou aprofundando meus conhecimentos em soluções de atendimento n
 
 ### ☁️ Cloud Computing & AWS
 
-- [AWS Lambda Web Lab](https://github.com/DayanePereiraCosta/aws-lambda-web-lab) — Projeto Pessoal - Laboratório prático envolvendo AWS Lambda e desenvolvimento de soluções em nuvem.
-- [URA Financeira Demo](https://github.com/DayanePereiraCosta/ura-financeira-demo) — Projeto Pessoal - Demonstração de uma solução de URA (Unidade de Resposta Audível).
+- [Aurora Financeira](LINK_DO_REPOSITORIO) — Projeto pessoal de atendimento financeiro inteligente com Inteligência Artificial, Amazon Connect, Amazon Lex, AWS Lambda, Supabase e Amazon SES.
+- [AWS Lambda Web Lab](https://github.com/DayanePereiraCosta/aws-lambda-web-lab) — Projeto pessoal - Laboratório prático envolvendo AWS Lambda e desenvolvimento de soluções em nuvem.
+- [URA Financeira Demo](https://github.com/DayanePereiraCosta/ura-financeira-demo) — Projeto pessoal - Demonstração de uma solução de URA (Unidade de Resposta Audível).
 
 ### 💻 Desenvolvimento e tecnologia
 
@@ -61,7 +60,7 @@ Atualmente, estou aprofundando meus conhecimentos em soluções de atendimento n
 
 Atualmente, meus estudos estão concentrados em:
 
-- AWS Cloud Computing, Amazon Connect e AWS Lambda.
+- AWS Cloud Computing, Amazon Connect, Amazon Lex e AWS Lambda.
 - Python e lógica de programação.
 - SQL e bancos de dados.
 - Desenvolvimento de aplicações e integrações.
@@ -73,12 +72,12 @@ Também tenho explorado como diferentes tecnologias podem trabalhar juntas para 
 
 **Meus valores:**
 
-- ✨ Curiosidade: Aprender sempre, em qualquer área da vida!  
+- ✨ Curiosidade: Aprender sempre, em qualquer área da vida!
 - 🤝 Colaboração: crescer compartilhando conhecimento.
 - 🎨 Criatividade: pensar além do óbvio.
 - 🌱 Evolução constante: transformar desafios em aprendizado.
 - 💡 Resiliência: persistir mesmo quando o código não compila de primeira!
-🏳️‍🌈 Respeito e Inclusão: Celebrar a diversidade e garantir que todos se sintam valorizados e representados.
+- 🏳️‍🌈 Respeito e Inclusão: Celebrar a diversidade e garantir que todos se sintam valorizados e representados.
 
 ---
 
