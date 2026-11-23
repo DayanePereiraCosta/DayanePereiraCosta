@@ -21,6 +21,7 @@ Atualmente, estou aprofundando meus conhecimentos em soluções de atendimento n
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white)
 ![Amazon Lex](https://img.shields.io/badge/Amazon_Lex-232F3E?logo=amazonaws&logoColor=white)
 ![Amazon SES](https://img.shields.io/badge/Amazon_SES-232F3E?logo=amazonaws&logoColor=white)
+![Amazon Polly](https://img.shields.io/badge/Amazon_Polly-232F3E?logo=amazonaws&logoColor=white)
 
 **Programação & Desenvolvimento**
 
