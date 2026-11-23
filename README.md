@@ -20,7 +20,7 @@ Atualmente, estou aprofundando meus conhecimentos em soluções de atendimento n
 ![Amazon Connect](https://img.shields.io/badge/Amazon_Connect-00A1C9?logo=amazonaws&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-ED7100?logo=awslambda&logoColor=white)
 ![Amazon Lex](https://img.shields.io/badge/Amazon_Lex-01A88D?logo=amazonaws&logoColor=white)
-![Amazon SES](https://img.shields.io/badge/Amazon_SES-8C4FFF?logo=amazonaws&logoColor=white)
+![Amazon SES](https://img.shields.io/badge/Amazon_SES-232F3E?logo=amazonaws&logoColor=white)
 ![Amazon Polly](https://img.shields.io/badge/Amazon_Polly-01A88D?logo=amazonaws&logoColor=white)
 
 **Programação & Desenvolvimento**
