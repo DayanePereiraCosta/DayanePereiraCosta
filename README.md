@@ -31,7 +31,6 @@ Atualmente, estou aprofundando meus conhecimentos em soluções de atendimento n
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-8A2BE2?logo=probot&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?logo=openai&logoColor=white)
 
 **Ferramentas**
 
