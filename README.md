@@ -30,7 +30,11 @@ Atualmente, estou aprofundando meus conhecimentos em soluções de atendimento n
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![AI](https://img.shields.io/badge/AI-8A2BE2?logo=probot&logoColor=white)
+
+**Inteligência Artificial**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
 
 **Ferramentas**
 
