@@ -51,7 +51,7 @@ Atualmente, estou aprofundando meus conhecimentos em soluções de atendimento n
 
 - [Aurora Financeira](LINK_DO_REPOSITORIO) — Projeto pessoal de atendimento financeiro inteligente com Inteligência Artificial, Amazon Connect, Amazon Lex, AWS Lambda, Supabase e Amazon SES.
 - [AWS Lambda Web Lab](https://github.com/DayanePereiraCosta/aws-lambda-web-lab) — Projeto pessoal - Laboratório prático envolvendo AWS Lambda e desenvolvimento de soluções em nuvem.
-- [URA Financeira Demo](https://github.com/DayanePereiraCosta/ura-financeira-demo) — Projeto pessoal - Demonstração de uma solução de URA (Unidade de Resposta Audível).
+- [URA/Chat Demo](https://github.com/DayanePereiraCosta/ura-financeira-demo) — Projeto pessoal - Demonstração de uma solução de URA (Unidade de Resposta Audível) e CHAT dentro do site.
 
 ### 💻 Desenvolvimento e tecnologia
 
